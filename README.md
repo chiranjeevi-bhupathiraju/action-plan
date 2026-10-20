@@ -95,3 +95,8 @@ src/
 - Add completion status and filtering
 - Add categories, priorities, or due dates
 - Improve automated test coverage
+
+## Screenshot
+
+![Action Plan application screenshot](docs/action-plan-screenshot.png)
+
