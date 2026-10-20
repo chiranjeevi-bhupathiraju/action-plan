@@ -2,6 +2,8 @@
 
 Action Plan is a lightweight React application for turning a list of goals into manageable actions. Add an action, edit it as your plan changes, or remove it when it is no longer needed.
 
+![Action Plan application screenshot](docs/action-plan-screenshot.png)
+
 ## Features
 
 - Add actions from a modal form
@@ -95,3 +97,5 @@ src/
 - Add completion status and filtering
 - Add categories, priorities, or due dates
 - Improve automated test coverage
+
+
